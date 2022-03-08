@@ -8,7 +8,7 @@ This is a demo project about garment management. This project is created in a PH
 
 In order to install this project in your system you need to fun the below command.
 
-`git clone `
+`git clone https://github.com/kamalofficialkant/garment-project.git`
 
 Once the cloning is done then you will need to copy paste the .env.example file and rename it to .env
 Open env file and write your database creditials in it.
